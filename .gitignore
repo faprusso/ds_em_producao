@@ -4,6 +4,9 @@ __pycache__/
 *.pyo
 *.pyd
 
+# Python Version File
+.python-version
+
 # Jupyter Notebooks
 .ipynb_checkpoints/
 
